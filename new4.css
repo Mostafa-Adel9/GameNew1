@@ -1,0 +1,136 @@
+.header, .header2{
+    background-color: #E61500;
+    display: flex;
+    width: 100%;
+    padding-bottom: 13px;
+    padding-right: -20px;
+    padding-left: 40px;
+    margin-right: -20px;
+    margin-left: -20px;
+}
+
+.header2{
+    background-color: #000000 ;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    margin-top: -8px;
+}
+
+.nav{
+    font-size: 20px;
+    font-weight: 5px;
+    padding-right: 20px;
+    padding-top: 5px;
+    margin-left: 580px;
+}
+
+.bar{
+    background-color: white;
+    width: 100%;
+    text-decoration: none;
+    color: #2E2E2E;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    margin-top: 25px;
+}
+
+.popular, .destiny2, .overwatch2, .pubgsteam, .gpushortage, .steamdeck, .eldenring{
+    color: #2E2E2E;
+    font-size: 20px;
+    margin: 10px 20px;
+}
+
+.popular:hover, .destiny2:hover, .overwatch2:hover, .pubgsteam:hover, .gpushortage:hover, .steamdeck:hover, .eldenring:hover{
+    color: #E61500;
+}
+
+a{
+    text-decoration: none;
+}
+
+.logo{
+    color: #F1F1F1;
+    margin-left: 615px;
+    font-size: 18px;
+}
+
+.info, .home, .contact{
+    color: aliceblue;
+    padding-right: 14px;
+    padding-left: 14px;
+    padding-bottom: 14px;
+    padding-top: 10px;
+}
+
+.info{
+    margin-left: -20px;
+}
+
+.home, .contact{
+    margin-left: -5px;
+}
+
+body{
+    background-color: #F1F1F1 ;
+}
+
+::selection{
+    background-color: red;
+    color: black;
+}
+
+.home:hover, .info:hover, .contact:hover{
+    background-color: #000000;
+    color: #F1F1F1;
+}
+
+.first{
+    margin-top: 25px;
+    margin-left: 15px;
+    text-align: center;
+}
+
+.title{
+    color: #393939d7;
+    text-align: center;
+}
+
+.line{
+    margin-top: 0.5cm;
+}
+
+
+.second{
+    color: #2E2E2E ;
+    margin-top: 200px;
+    margin-left: 100px;
+    margin-bottom: 75px;
+}
+
+.bar2{
+    display: flex;
+    margin-right: 1125px;
+    transform: translateY(20px);
+}
+
+.new41{
+    margin-left: 10px;
+}
+
+.home1{
+    margin-right: 10px;
+}
+
+.home1, .new41{
+    transform: translateY(20px);
+    color: #2E2E2E;
+    margin-bottom: 40px;
+}
+
+.home1:hover, .new41:hover{
+    color: #E61500;
+}
+
+.abo{
+    margin-top: 100px;
+}

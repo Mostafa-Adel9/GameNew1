@@ -1,0 +1,84 @@
+.title{
+    text-align: center;
+    padding: 60px;
+}
+body{
+    background-image: url(images/6179736.jpg);
+}
+
+.form{
+    width: 100%;
+    padding: 30px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.fath{
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    margin: 300px;
+    margin-top: 1px;
+}
+
+input{
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+
+.lab1, .lab2, .lab3, .lab4{
+    padding: 10px;
+    margin: 20px 230px;
+}
+
+.submit{
+    background-color: #df0000 ;
+    border-radius: 50px;
+    color: #ccc;
+    cursor: pointer;
+    border: none;
+    padding: 24px 150px;
+    margin: 0px 190px;
+    transform: translateY(-120px);
+}
+
+.submit:hover{
+    background-color: #ca0202;
+}
+
+.list{
+    width: 100%;
+    margin: 0px 290px;
+}
+
+.dot{
+    background-color: #c40b0b;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    margin: 27px 275px;
+    transform: translateY(106px);
+}
+
+.cont{
+    transform: translateY(-125px);
+}
+
+.imp{
+    text-align: center;
+    font-size: 15px;
+    transform: translateY(-120px);
+}
+
+.terms, .priv{
+    text-decoration: none;
+    color: black;
+}
+
+.terms:hover, .priv:hover{
+    color: red;
+}
