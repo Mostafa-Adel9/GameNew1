@@ -259,6 +259,9 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+*/
+
 .dot{
     width: 20px;
     height: 20px;
@@ -286,5 +289,3 @@ body{
         transform: translate(0,15px);
     }
 }
-
-*/
